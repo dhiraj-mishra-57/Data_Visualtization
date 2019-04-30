@@ -5,10 +5,9 @@ I will mainly divide this repository to show you all basic and advance plotting 
 
 # Files 
   1 - Basic_Data_Visuatization.ipynb - Notebook which will help you getting started with the data visualization
-                                 In this file i have plotted line,histogram,area,bar,pie,scatter plot
+                                 In this file i have plotted line,histogram,area,bar,pie,scatter plot.
+  2 - Wine_&_pokemon Folder has a single notebook consisting of basic -> advance plotting using pandas plotting techinque.
 
-    To be added soon
-  2 - Advance_Data_Visuatization.ipynb - Notebook which will help you reaching the next step with data visualization
-                                         In this file i have plotted heat,bubble,waffle,word cloud,regression plotting.
-
-  3 - Wine_&_pokemon Folder has a single notebook consisting of basic -> advance plotting using pandas plotting techinque.
+`  To be added soon
+  3 - Advance_Data_Visuatization.ipynb - Notebook which will help you reaching the next step with data visualization
+                                         In this file i have plotted heat,bubble,waffle,word cloud,regression plotting`

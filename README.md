@@ -1,7 +1,7 @@
 # Data_Visualtization
 It has code which will help you understand basic as well as advance types of plotting
 
-I will mainly divide this repository to show you all basic and advance plotting techingues using `matplotlib` & `seabron`
+I will mainly divide this repository to show you all basic and advance plotting techingues using `pandas.plot` , `matplotlib` & `seabron`
 
 # Files 
   1 - Basic_Data_Visuatization.ipynb - Notebook which will help you getting started with the data visualization

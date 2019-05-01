@@ -8,7 +8,8 @@ I will mainly divide this repository to show you all basic and advance plotting 
                                  In this file i have plotted line,histogram,area,bar,pie,scatter plot.
   
 
-# Wine_&_pokemon Folder has a single notebook consisting of basic -> advance plotting using `pandas.plot` , `matplotlib` & `seabron`         plotting techinque.
+# Wine_&_pokemon Folder 
+   Has a single notebook consisting of basic -> advance plotting using `pandas.plot` , `matplotlib` & `seabron` plotting techinque.
 
 `  To be added soon
              Advance_Data_Visuatization.ipynb - Notebook which will help you reaching the next step with data visualization

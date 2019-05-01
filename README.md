@@ -12,5 +12,5 @@ I will mainly divide this repository to show you all basic and advance plotting 
    Has a single notebook consisting of basic -> advance plotting using `pandas.plot` , `matplotlib` & `seabron` plotting techinque.
 
 `  To be added soon
-             Advance_Data_Visuatization.ipynb - Notebook which will help you reaching the next step with data visualization
+             Advance_Data_Visuatization.ipynb - Notebook which will help you reaching the next step with data visualization.
                                                 In this file i have plotted heat,bubble,waffle,word cloud,regression plotting`
